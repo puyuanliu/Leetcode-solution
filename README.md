@@ -5,4 +5,4 @@ My solutions to some lowest acceptance rate Leetcode questions. This repo will b
 Directory
 -- 
 420. Strong Password Checker
-421. 
+1622. Fancy Sequence
